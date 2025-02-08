@@ -16,8 +16,7 @@ I’m a passionate developer exploring the intersection of **frontend, backend, 
 🔹 **Web-Based Course Selection System** (React, Supabase)  
 
 ### **📫 Let's Connect!**  
-💼 [LinkedIn](https://dub.sh/asrori-linkdin)  
-📜 [Portfolio](https://portfolio-v2-swart-seven.vercel.app/)  
-🐦 [Twitter](https://dub.sh/asrori-twitter)  
+💼 [LinkedIn](https://www.linkedin.com/in/moh-fauzan-asrori/)  
+📜 [Portfolio](https://portfolio-v2-swart-seven.vercel.app/)
 
 > 🚀 Always learning, building, and innovating. Let's create something awesome!  
